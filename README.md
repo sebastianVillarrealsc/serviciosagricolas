@@ -1,14 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+este proyecto ue iniciado con  [Create React App](https://github.com/facebook/create-react-app).
+tambien se incluyo bootstrap y se uso nestjs
 
-## Available Scripts
-
-In the project directory, you can run:
+## scrips disponibles 
+En el directorio del proyecto, puedes ejecutar los siguientes comandos:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mo
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
